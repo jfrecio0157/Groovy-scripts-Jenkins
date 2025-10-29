@@ -5,6 +5,7 @@ node {
 
   stage ("Build") {
    echo "Building..."
+   echo "Rama brV01R00F00"
   }
 
   stage("Test") {

@@ -1,4 +1,4 @@
-Library('releasenotes@main')
+@Library('releasenotes@main')
 
 node {
   stage ("SCM") {

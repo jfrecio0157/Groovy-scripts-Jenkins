@@ -1,0 +1,262 @@
+.git
+	.git	4096
+	COMMIT_EDITMSG	32
+	config	388
+	description	73
+	FETCH_HEAD	246
+	HEAD	28
+hooks
+	hooks	4096
+	applypatch-msg.sample	478
+	commit-msg.sample	896
+	fsmonitor-watchman.sample	4726
+	post-update.sample	189
+	pre-applypatch.sample	424
+	pre-commit.sample	1649
+	pre-merge-commit.sample	416
+	pre-push.sample	1374
+	pre-rebase.sample	4898
+	pre-receive.sample	544
+	prepare-commit-msg.sample	1492
+	push-to-checkout.sample	2783
+	sendemail-validate.sample	2308
+	update.sample	3650
+	index	1565
+info
+	info	0
+	exclude	240
+logs
+	logs	0
+	HEAD	1051
+refs
+	refs	0
+heads
+	heads	0
+	brV01R00F00	857
+	main	200
+remotes
+	remotes	0
+origin
+	origin	0
+	brV01R00F00	580
+	HEAD	200
+objects
+	objects	4096
+14
+	14	0
+	6a6210d6c4936bae7701997ec24a701c900c8b	52
+17
+	17	0
+	d3861bfd0ba5f9394af6a58b73838bb13ac4eb	511
+2a
+	2a	0
+	71e3fdfe77363ce104bbcb84b77a9bb53e0b42	221
+37
+	37	0
+	42f7aa68452c101a6aa7c4f81ed83c32269937	182
+4c
+	4c	0
+	af68c86dda26d0e12cb1156517dff5d8fbf048	55
+4d
+	4d	0
+	5237474a46f4ce77813ec66d50efba86b83205	688
+55
+	55	0
+	38982ba76af465a7bdbe071ed15117113d7b5d	124
+	9a50835a5b571a1ba284ae053ee4e09182e8df	104
+56
+	56	0
+	154edb7a3d88b92c5cdc37762e6622dfc31708	75
+57
+	57	0
+	21c8561ffc58f0410c6184636c98a351cf7932	207
+60
+	60	0
+	41686e02b17681051f19b3fa620553dff168c5	87
+63
+	63	0
+	223f6cfa5b6fd600daead5925da20cae49906e	352
+75
+	75	0
+	c36bfb462cf82f0eda164a0a18ff61eee6c6de	72
+95
+	95	0
+	a2e469e3a5a812cef8baf37d9965092933dc8d	382
+99
+	99	0
+	34a7f47611018b76c1c8be78f1e93c16927151	187
+9d
+	9d	0
+	032e234536257095c3a31bab779411dbb39d0c	548
+a8
+	a8	0
+	039a28596d3336986ab9110ff78285f77dbcd0	219
+bb
+	bb	0
+	46a9e26741b5f8c0ddf57ed1444ad93020b3c8	796
+bf
+	bf	0
+	c5fcc7ce951f84632557b8bc302068da255da4	222
+c2
+	c2	0
+	e387c8ab375f029e3bc32bc5d53030dd1f6b55	383
+c6
+	c6	0
+	04f822446ec35b6cf1fa04d3bcc8756207c97a	773
+c9
+	c9	0
+	72e2b0745e65265135a07be6938f93858c8502	176
+d4
+	d4	0
+	0a5f80289bb298b0fb29be59e300fb075768ee	178
+d9
+	d9	0
+	d26ee115499ebbf404246d6ddd5eabab0b496d	335
+e6
+	e6	0
+	9de29bb2d1d6434b8b29ae775ad8c2e48c5391	15
+e9
+	e9	0
+	52486374b9e8423091683a982d36f803c2002b	57
+	99ed7beee31af6a237985fb7d5ccd88a0f6d00	306
+fa
+	fa	0
+	50c14f8482f417d116fe845c14a563f51aefe7	984
+info
+	info	0
+pack
+	pack	4096
+	pack-36b280daf3d10c62287fee6a7990e81146c8140d.idx	1184
+	pack-36b280daf3d10c62287fee6a7990e81146c8140d.pack	1160
+	pack-36b280daf3d10c62287fee6a7990e81146c8140d.rev	68
+	ORIG_HEAD	41
+	packed-refs	185
+refs
+	refs	0
+heads
+	heads	0
+	brV01R00F00	41
+	main	41
+remotes
+	remotes	0
+origin
+	origin	0
+	brV01R00F00	41
+	HEAD	30
+tags
+	tags	0
+	tgitchangelist	0
+	.gitignore	314
+.idea
+	.idea	4096
+	.gitignore	50
+libraries
+	libraries	0
+	groovy_5_0_0.xml	4679
+	misc.xml	276
+	modules.xml	275
+	vcs.xml	185
+	workspace.xml	6996
+	Groovy scripts.iml	526
+	Jenkinsfile	237
+lib
+	lib	24576
+	groovy-5.0.0-sources.jar	2666653
+	groovy-5.0.0.jar	8051773
+	groovy-ant-5.0.0-sources.jar	55885
+	groovy-ant-5.0.0.jar	77141
+	groovy-astbuilder-5.0.0-sources.jar	9734
+	groovy-astbuilder-5.0.0.jar	10221
+	groovy-cli-commons-5.0.0-sources.jar	15036
+	groovy-cli-commons-5.0.0.jar	60417
+	groovy-cli-picocli-5.0.0-sources.jar	18750
+	groovy-cli-picocli-5.0.0.jar	57818
+	groovy-console-5.0.0-sources.jar	146468
+	groovy-console-5.0.0.jar	825315
+	groovy-contracts-5.0.0-sources.jar	99525
+	groovy-contracts-5.0.0.jar	118745
+	groovy-datetime-5.0.0-sources.jar	18107
+	groovy-datetime-5.0.0.jar	20223
+	groovy-dateutil-5.0.0-sources.jar	12470
+	groovy-dateutil-5.0.0.jar	12369
+	groovy-docgenerator-5.0.0-sources.jar	34316
+	groovy-docgenerator-5.0.0.jar	122674
+	groovy-ginq-5.0.0-sources.jar	88606
+	groovy-ginq-5.0.0.jar	249279
+	groovy-groovydoc-5.0.0-sources.jar	119741
+	groovy-groovydoc-5.0.0.jar	153285
+	groovy-groovysh-5.0.0-sources.jar	134206
+	groovy-groovysh-5.0.0.jar	339505
+	groovy-jmx-5.0.0-sources.jar	46041
+	groovy-jmx-5.0.0.jar	116721
+	groovy-json-5.0.0-sources.jar	106523
+	groovy-json-5.0.0.jar	138753
+	groovy-jsr223-5.0.0-sources.jar	18935
+	groovy-jsr223-5.0.0.jar	21459
+	groovy-macro-5.0.0-sources.jar	42003
+	groovy-macro-5.0.0.jar	262612
+	groovy-macro-library-5.0.0-sources.jar	7057
+	groovy-macro-library-5.0.0.jar	9283
+	groovy-nio-5.0.0-sources.jar	19808
+	groovy-nio-5.0.0.jar	21020
+	groovy-servlet-5.0.0-sources.jar	23808
+	groovy-servlet-5.0.0.jar	27939
+	groovy-sql-5.0.0-sources.jar	64064
+	groovy-sql-5.0.0.jar	86636
+	groovy-swing-5.0.0-sources.jar	141351
+	groovy-swing-5.0.0.jar	332613
+	groovy-templates-5.0.0-sources.jar	57767
+	groovy-templates-5.0.0.jar	98394
+	groovy-test-5.0.0-sources.jar	43897
+	groovy-test-5.0.0.jar	74710
+	groovy-test-junit5-5.0.0-sources.jar	9986
+	groovy-test-junit5-5.0.0.jar	12706
+	groovy-testng-5.0.0-sources.jar	8829
+	groovy-testng-5.0.0.jar	8586
+	groovy-toml-5.0.0-sources.jar	12640
+	groovy-toml-5.0.0.jar	10580
+	groovy-typecheckers-5.0.0-sources.jar	15125
+	groovy-typecheckers-5.0.0.jar	62566
+	groovy-xml-5.0.0-sources.jar	99114
+	groovy-xml-5.0.0.jar	223993
+out
+	out	0
+production
+	production	0
+Groovy scripts
+	Groovy scripts	8192
+	Artistas.class	1116
+	CuartoScript_SubRutinas.class	4075
+	Main.class	1762
+	music.json	2003
+	OctavoScript_GlobalSharedLibrary$_run_closure1$_closure2.class	2623
+	OctavoScript_GlobalSharedLibrary$_run_closure1.class	2452
+	OctavoScript_GlobalSharedLibrary.class	2760
+	primerScript.class	2551
+	Productores.class	1538
+	QuintoScript_ClasesYObjetos$_run_closure1.class	2168
+	QuintoScript_ClasesYObjetos.class	2513
+	SegundoScript_TypeDates.class	3357
+	SeptimoScript_Import.class	4495
+	SextoScript_ClasesAbstractas$_run_closure1$_closure2.class	2329
+	SextoScript_ClasesAbstractas$_run_closure1.class	2564
+	SextoScript_ClasesAbstractas.class	2909
+	TercerScript_EstructurasDeControl$_run_closure1.class	1977
+	TercerScript_EstructurasDeControl$_run_closure2.class	2109
+	TercerScript_EstructurasDeControl.class	3945
+	User.class	2626
+	Usuario.class	2636
+	README.md	70
+	releasenotes.txt	0
+src
+	src	4096
+	CuartoScript_SubRutinas.groovy	1098
+	Main.groovy	60
+	music.json	2003
+	OctavoScript_GlobalSharedLibrary.groovy	555
+	primerScript.groovy	334
+	QuintoScript_ClasesYObjetos.groovy	1647
+	SegundoScript_TypeDates.groovy	579
+	SeptimoScript_Import.groovy	1569
+	SextoScript_ClasesAbstractas.groovy	2392
+	TercerScript_EstructurasDeControl.groovy	710

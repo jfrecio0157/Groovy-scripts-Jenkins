@@ -44,5 +44,3 @@ try {
 }catch (JsonException e){
     println ("Error al procesar el JSON: ${e.message}")
 }
-
-println(Jenkins.instance.pluginManager.plugins)

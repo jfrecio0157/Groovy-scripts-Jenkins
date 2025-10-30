@@ -11,7 +11,8 @@ node {
    echo "Building..."
    //echo "Rama brV01R00F00"
 
-    // Genera releasenotes.txt en la raíz del workspace (Windows)
+    // Se ejecuta el releasenotes.groovy
+    // Con glob: Genera releasenotes.txt en la raíz del workspace (Windows)
     // Puedes ajustar glob/excludes si quieres afinar:
     releasenotes(
       glob: '**/*',

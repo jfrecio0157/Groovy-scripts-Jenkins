@@ -3,6 +3,8 @@
 node {
   stage ("SCM") {
    echo "Stage SCM..."
+   //Jenkins hace checkout del código desde GitHub al workspace antes de llamar a releasenotes
+   checkout scm
   }
 
   stage ("Build") {

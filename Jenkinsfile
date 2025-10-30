@@ -5,7 +5,8 @@ node {
 
   stage ("Build") {
    echo "Building..."
-   echo "Rama brV01R00F00"
+   //echo "Rama brV01R00F00"
+   OctavoScript_GlobalSharedLibrary()
   }
 
   stage("Test") {

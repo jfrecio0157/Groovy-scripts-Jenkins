@@ -20,3 +20,4 @@ private String buildReleaseNotes(String rootPath) {
     }
     return sb.toString()
 }
+

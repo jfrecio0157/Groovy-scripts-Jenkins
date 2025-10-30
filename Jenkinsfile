@@ -1,3 +1,5 @@
+Library('releasenotes@main')
+
 node {
   stage ("SCM") {
    echo "Stage SCM..."
@@ -6,7 +8,14 @@ node {
   stage ("Build") {
    echo "Building..."
    //echo "Rama brV01R00F00"
-   OctavoScript_GlobalSharedLibrary()
+
+    // Genera releasenotes.txt en la raíz del workspace (Windows)
+    // Puedes ajustar glob/excludes si quieres afinar:
+    releasenotes(
+      glob: '**/*',
+      excludes: '**/.git/**,**/.svn/**,**/.hg/**,**/.idea/**,**/target/**,**/build/**'
+    )
+
   }
 
   stage("Test") {
@@ -15,5 +24,6 @@ node {
 
   stage ("Deploy") {
    echo "Deploying..."
+   archiveArtifacts artifacts: 'releasenotes.txt', onlyIfSuccessful: true
   }
 }
